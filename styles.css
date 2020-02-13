@@ -17,11 +17,9 @@ html, body, .hero {
   top: 50%;
   left: 40%;
   margin: 0;
-  /* transform: translate(-50%, -50%); */
   font-family: 'Roboto', Arial, sans-serif;
   font-size: 72pt;
-  font-weight: bold;
-  text-align: center;
+  font-weight: 700;
   mix-blend-mode: multiply;
 }
 
