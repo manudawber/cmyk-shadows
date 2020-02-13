@@ -2,7 +2,7 @@
 // https://javascript30.com/
 // https://www.youtube.com/watch?v=zaz9gLI-Xac
 
-const walk = 100; // 100px
+const walk = 120; // 100px
 const hero = document.querySelector('.hero');
 const black = hero.querySelector('.black');
 const cyan = hero.querySelector('.cyan');
